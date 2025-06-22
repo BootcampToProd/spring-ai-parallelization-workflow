@@ -5,6 +5,9 @@ This repository demonstrates the **Spring AI Parallelization Workflow Pattern**,
 📖 **Dive Deeper**: For a complete walkthrough, detailed explanations of the Parallelization Workflow pattern, and step-by-step instructions for the example application, read our blog post.<br>
 👉 [Spring AI Parallelization Workflow: Efficient Concurrent LLM Processing](https://bootcamptoprod.com/spring-ai-parallelization-workflow-guide/)
 
+🎥 **Visual Learning**: Prefer video tutorials? Watch our step-by-step implementation guide on YouTube.<br>
+👉 [Spring AI Parallelization Workflow: Efficient Concurrent LLM Processing](https://youtu.be/TEPHh2pjTNQ)
+
 ---
 
 ## 📦 Environment Variables
